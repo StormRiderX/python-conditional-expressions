@@ -35,7 +35,7 @@ print(greet(""))       # Output: "Hello, Guest!"
 Clone the repo:
 
 bash
-git clone https://github.com/your-username/python-conditional-expressions.git
+git clone https://github.com/stormriderx/python-conditional-expressions.git
 Execute the examples:
 
 bash
