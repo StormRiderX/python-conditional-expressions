@@ -42,10 +42,3 @@ bash
 python ternary_operator.py
 📜 License
 This project is open-source under the MIT License.
-
-Key Features of This README:
-Clean formatting with emojis and code blocks.
-
-Practical examples covering basic to nested usage.
-
-Quick-run instructions for beginners.
